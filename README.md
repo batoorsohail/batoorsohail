@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Hello world">
+<!-- <img src="banner.png" alt="Hello world"> -->
 <h1 align="center">Hi 👋, I'm Sohail Batoor</h1>
 <h3 align="center">A passionate Full Stack Developer from Afghanistan</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -27,5 +27,5 @@
   <summary>:zap: GitHub Stats</summary>
     </br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=batoorsohail&langs_count=8&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="batoorsohail" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=batoorsohail&langs_count=8&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Alwyn's GitHub stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=batoorsohail&langs_count=8&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Sohail's GitHub stats" />
 </div>
