@@ -1,7 +1,10 @@
-<!-- <img src="banner.png" alt="Hello world"> -->
-<!-- <h1 align="center">Hi 👋, I'm Sohail Batoor</h1>
-<h3 align="center">A passionate Full Stack Developer from Afghanistan</h3> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I+am+Ahmad+Sohail+Batoor;Passionate+Full-Stack+Developer" alt="Typing SVG" align="middle" width="100%" /></a>
+<img src="./assets/border-separator.gif" width="100%">
+<div align="center">
+  <img src="./assets/animated-flame-1.gif" align="left" width="20px">
+  <a href="https://git.io/typing-svg"><img alt='' src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I+am+Ahmad+Sohail+Batoor;Passionate+Full-Stack+Developer" width="80%" /></a>
+  <img src="./assets/animated-flame-1.gif" align="right" width="20px">
+</div>
+<img src="./assets/border-separator.gif" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batoorsohail&label=Profile%20views&color=0e75b6&style=flat" alt="batoorsohail" /> </p>
 
