@@ -28,9 +28,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"></p>
 
-<div>
+<div width="100%">
   <summary>:zap: GitHub Stats</summary>
     </br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=batoorsohail&langs_count=8&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="batoorsohail" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=batoorsohail&langs_count=8&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Sohail's GitHub stats" />
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=batoorsohail&langs_count=8&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="batoorsohail" />
+    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=batoorsohail&langs_count=8&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Sohail's GitHub stats" />
 </div>
