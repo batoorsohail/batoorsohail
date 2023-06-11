@@ -2,7 +2,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Sohail Batoor</h1>
 <h3 align="center">A passionate Full Stack Developer from Afghanistan</h3> -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I+am+Ahmad+Sohail+Batoor;Passionate+Full-Stack+Developer" alt="Typing SVG" align="middle" width="100%" /></a>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batoorsohail&label=Profile%20views&color=0e75b6&style=flat" alt="batoorsohail" /> </p>
 
