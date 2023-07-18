@@ -28,7 +28,7 @@
 </p>
 
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img align="center" src="https://skillicons.dev/icons?i=git,github,webpack,react,redux,html,css,js,ruby,rails,vscode,netlify,figma" alt="skills logos" width="80%"/>
+  <img align="center" src="https://skillicons.dev/icons?i=git,github,webpack,react,redux,html,css,js,ruby,rails,vscode,netlify,photoshop,figma" alt="skills logos" width="80%"/>
 
 <div width="100%">
   <summary>:zap: GitHub Stats</summary>
