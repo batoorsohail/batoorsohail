@@ -18,7 +18,7 @@
 
 - 💬 Ask me about video games and movies
 
-- 👯 I’m looking to collaborate on Javascript and React projects
+- 👯 I’m looking to collaborate on React and Ruby on Rails projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
