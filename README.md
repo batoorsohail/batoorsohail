@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/sohailbatoor" target="blank"><img src="https://img.shields.io/twitter/follow/sohailbatoor?logo=twitter&style=for-the-badge" alt="sohailbatoor" /></a> </p>
 
-- 🌱 I’m currently learning **TailwindCSS and TypeScripit**
+- 🌱 I’m currently learning **TailwindCSS and TypeScript**
 
 - 👨‍💻 All of my projects are available at [here](https://batoorsohail.github.io/my-portfolio/)
 
