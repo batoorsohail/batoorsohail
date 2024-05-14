@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at [here](https://batoorsohail.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [here](https://sohailbatoor.netlify.app/)
 
 - 📫 How to reach me **sohailshahidi1435@gmail.com**
 
