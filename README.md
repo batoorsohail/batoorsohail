@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **sohailshahidi1435@gmail.com**
 
-- 💬 Ask me about video games and movies
+- 💬 Ask me about video games, movies, and chess
 
-- 👯 I’m looking to collaborate on React and Ruby on Rails projects
+- 👯 I’m looking to collaborate on MERN stack projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
